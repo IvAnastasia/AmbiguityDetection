@@ -49,7 +49,7 @@ AmbiK comprises 500 pairs of ambiguous tasks and their unambiguous counterparts,
 Here are the examples of different ambiguity types: 
 <img src="ambik_types_examples.png">
 
-## In this paper, KnowNo, LAP, LofreeCP, Binary, NoHelp approaches are realized.
+In this paper, KnowNo, LAP, LofreeCP, Binary, NoHelp approaches are realized.
 
 # Further applications
 

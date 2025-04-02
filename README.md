@@ -6,7 +6,7 @@
 
 # AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment
 
-The paper for ACL 2025:
+The paper for ACL 2025: [PDF](https://drive.google.com/file/d/1HmtL4TKxiVwhdFh654g9zlukdATeRbVv/view?usp=sharing)
 
 **Abstract**
 

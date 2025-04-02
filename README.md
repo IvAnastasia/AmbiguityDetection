@@ -1,7 +1,19 @@
-# What is ambiguity in natural language instructions?
+# Uncertainty in LLM
+
+Not only the top 1 answers is important, rather probability distibutions
+
 
 
 # Ambiguity detection methods for robotics tasks
+
+- Ambiguity detection --
+- for robotic tasks --
+
+## Simple approches
+
+## Conformal Prediction based approaches
+
+## Dempster Shannon theory based approaches
 
 
 # AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment
@@ -36,6 +48,8 @@ AmbiK comprises 500 pairs of ambiguous tasks and their unambiguous counterparts,
 
 Here are the examples of different ambiguity types: 
 <img src="ambik_types_examples.png">
+
+## In this paper, KnowNo, LAP, LofreeCP, Binary, NoHelp approaches are realized.
 
 # Further applications
 

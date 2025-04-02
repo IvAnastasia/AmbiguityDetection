@@ -1,6 +1,14 @@
+# What is ambiguity in natural language instructions?
+
+
+# Ambiguity detection methods for robotics tasks
+
+
 # AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment
 
-A repository for the paper: 
+The paper for ACL 2025:
+
+**Abstract**
 
 The use of Large Language Models (LLMs), which demonstrate impressive capabilities in natural language understanding and reasoning, in Embodied AI is a rapidly developing area. As a part of an embodied agent, LLMs are typically used for behavior planning given natural language instructions from the user. However, dealing with ambiguous instructions in real-world environments remains a challenge for LLMs. Various methods for task ambiguity detection have been proposed. However, it is difficult to compare them because they are tested on different datasets, and there is no universal benchmark. For this reason, we propose **AmbiK** (**Ambi**guous Tasks in **K**itchen Environment), the fully textual dataset of ambiguous instructions addressed to a robot in a kitchen environment. AmbiK was collected with the assistance of LLMs and is human-validated. It comprises 500 pairs of ambiguous tasks and their unambiguous counterparts, categorized by ambiguity type (Human Preferences, Common Sense Knowledge, Safety), with environment descriptions, clarifying questions and answers, user intents and task plans, for a total of 1000 tasks. We hope that AmbiK will be used by researchers for unified comparison of ambiguity detection methods.
 
@@ -28,3 +36,6 @@ AmbiK comprises 500 pairs of ambiguous tasks and their unambiguous counterparts,
 
 Here are the examples of different ambiguity types: 
 <img src="ambik_types_examples.png">
+
+# Further applications
+

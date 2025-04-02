@@ -62,6 +62,5 @@ In this paper, KnowNo, LAP, LofreeCP, Binary, NoHelp approaches are realized.
 
 # Further applications which might be relevant
 
-### Education: 
-
-when the user gives a request with unfull information (e. g. What did Napoleon?), it makes sense to clerify the question before answering
+**Education:** when the user gives a request with unfull information (e. g. What did Napoleon?), it makes sense to clerify the question before answering
+**Learning foreign language:** in the LLM generated tasks, if fill in tasks and we need create, uncertainty in LLM might indicate

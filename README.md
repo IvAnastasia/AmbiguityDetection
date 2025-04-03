@@ -45,10 +45,11 @@ AmbiK comprises 500 pairs of ambiguous tasks and their unambiguous counterparts,
 
 ## Main results:
 
-- AmbiK tasks are challenging for all SOTA methods and models
+- AmbiK tasks are challenging for all SOTA methods and models: methods can not distinguish between ambiguous and unambiguous tasks
 - GPT models are overconfident
 - Simple approaches sometimes work better than CP-based approaches
-- 
+- LLM logits are often miscalibrated
+- Giving context of previous actions helps
 
 ## Repo structure
 

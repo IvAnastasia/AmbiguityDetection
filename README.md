@@ -57,7 +57,7 @@ In this paper, the KnowNo, LAP, LofreeCP, Binary, and NoHelp approaches are impl
 
 ## Skills I used in this project
 
-Python (Torch, Hugging Face, OpenAI API), data gathering using LLMs (complex prompting), organizing human validation (Amazon Mechanical Turk), paper implementation, transferring methods from one domain to another, metric invention.
+Python (Torch, Hugging Face, OpenAI API), data gathering using LLMs (complex prompting), organizing human validation (Amazon Mechanical Turk), papers implementation, transferring methods from one domain to another, metric invention, launching experiments on GPUs.
 
 # Further Applications That Might Be Relevant
 
